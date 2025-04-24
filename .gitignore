@@ -8,3 +8,4 @@
 # Dataset and temporary files
 files/*.xlsx
 files/*.csv
+files/*.xls
