@@ -5,7 +5,7 @@ The **DataVisualization** application is a powerful tool designed to create inte
 
 ## Features
 - Interactive data visualization.
-- Support for multiple chart types (e.g., bar charts, line charts, scatter plots).
+- Support for multiple chart types (e.g., bar charts, line charts, scatter plots and pie charts).
 - Easy-to-use interface for uploading and processing datasets.
 - Real-time updates and interactivity.
 
@@ -44,7 +44,7 @@ To run the **DataVisualization** application, ensure you have the following inst
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nileshzodge18/Data-Visualization.git
    cd DataVisualization
    ```
 
