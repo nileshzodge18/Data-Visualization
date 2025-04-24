@@ -1,0 +1,10 @@
+# IDE-specific ignores
+.vscode/
+.venv/
+
+# Configuration files
+.config/app_config.toml
+
+# Dataset and temporary files
+files/*.xlsx
+files/*.csv

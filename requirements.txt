@@ -1,0 +1,16 @@
+dotenv==0.9.9
+langchain-core==0.3.45
+langchain-experimental==0.3.4
+langchain-openai==0.3.9
+matplotlib==3.10.1
+modin==0.32.0
+numpy==2.2.4
+odf==0.0.1
+openpyxl==3.1.5
+pandas==2.2.3
+streamlit==1.43.2
+tabulate==0.9.0
+toml==0.10.2
+torch==2.6.0
+xlrd==2.0.1
+
