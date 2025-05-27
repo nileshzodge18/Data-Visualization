@@ -1,8 +1,8 @@
 [
   {
     "entityRef": {
-      "kind": "component",
-      "name": "example-website"
+      "kind": "API",
+      "name": "clearing-scheme-validate-api"
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
@@ -43,8 +43,8 @@
   },
   {
     "entityRef": {
-      "kind": "system",
-      "name": "non-valid-system"
+      "kind": "System",
+      "name": "platform-engineering"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 20,
@@ -361,8 +361,8 @@
   },
   {
     "entityRef": {
-      "kind": "system",
-      "name": "podcast"
+      "kind": "Component",
+      "name": "fgpp-clearing-scheme"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
