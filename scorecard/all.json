@@ -1,7 +1,7 @@
 [
   {
     "entityRef": {
-      "kind": "API",
+      "kind": "api",
       "name": "clearing-scheme-validate-api"
     },
     "scorePercent": 50,
@@ -361,7 +361,7 @@
   },
   {
     "entityRef": {
-      "kind": "Component",
+      "kind": "component",
       "name": "fgpp-clearing-scheme"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
