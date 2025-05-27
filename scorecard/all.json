@@ -6,7 +6,7 @@
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
-    "scoringReviewDate": "2022-01-01T08:00:00Z",
+    "scoringReviewDate": "2025-05-01T08:00:00Z",
     "scoreSuccess": "almost-failure",
     "areaScores": [
       {
@@ -48,7 +48,7 @@
     },
   "scorePercent": 50,
     "scoreLabel": "Yellow",
-    "scoringReviewDate": "2022-01-01T08:00:00Z",
+    "scoringReviewDate": "2025-05-04T08:00:00Z",
     "scoreSuccess": "almost-failure",
     "areaScores": [
       {
@@ -91,7 +91,7 @@
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-01-04T08:00:00Z",
+    "scoringReviewDate": "2025-05-11T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
       {
@@ -401,7 +401,7 @@
     "scoreLabel": "C",
     "scoreSuccess": "partial",
     "scoringReviewer": "Guest",
-    "scoringReviewDate": "2022-01-04T08:00:00Z",
+    "scoringReviewDate": "2025-05-19T08:00:00Z",
     "areaScores": [
       {
         "id": 2199,
