@@ -43,7 +43,7 @@
   },
   {
     "entityRef": {
-      "kind": "System",
+      "kind": "system",
       "name": "platform-engineering"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
@@ -53,8 +53,8 @@
   },
   {
     "entityRef": {
-      "kind": "system",
-      "name": "audio-playback"
+      "kind": "component",
+      "name": "gppe-documentation"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
