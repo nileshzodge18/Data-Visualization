@@ -43,8 +43,8 @@
   },
   {
     "entityRef": {
-      "kind": "system",
-      "name": "platform-engineering"
+      "kind": "api",
+      "name": "clearing-scheme-reachability-api"
     },
   "scorePercent": 50,
     "scoreLabel": "Yellow",
@@ -85,8 +85,8 @@
   },
   {
     "entityRef": {
-      "kind": "system",
-      "name": "routing-package"
+      "kind": "component",
+      "name": "fgpp-gateway-service"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
