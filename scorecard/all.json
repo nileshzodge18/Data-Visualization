@@ -44,7 +44,7 @@
   {
     "entityRef": {
       "kind": "api",
-      "name": "FUSIONPAYMNENTS-clearing-scheme-reachability-api"
+      "name": "FUSIONPAYMENTS-clearing-scheme-reachability-api"
     },
   "scorePercent": 50,
     "scoreLabel": "Yellow",
@@ -394,7 +394,7 @@
   {
     "entityRef": {
       "kind": "component",
-      "name": "FUSIONPAYMNENTS-fgpp-clearing-scheme"
+      "name": "FUSIONPAYMENTS-fgpp-clearing-scheme"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
