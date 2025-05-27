@@ -46,10 +46,42 @@
       "kind": "system",
       "name": "platform-engineering"
     },
-    "generatedDateTimeUtc": "2021-07-22 10:00",
-    "scorePercent": 20,
-    "scoreSuccess": "failure",
-    "scoringReviewer": "n/a"
+  "scorePercent": 50,
+    "scoreLabel": "Yellow",
+    "scoringReviewDate": "2022-01-01T08:00:00Z",
+    "scoreSuccess": "almost-failure",
+    "areaScores": [
+      {
+        "title": "Code",
+        "scorePercent": 100,
+        "scoreLabel": "Green",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Documentation",
+        "scorePercent": 25,
+        "scoreLabel": "Red",
+        "scoreSuccess": "failure"
+      },
+      {
+        "title": "Operations",
+        "scorePercent": 100,
+        "scoreLabel": "Green",
+        "scoreSuccess": "success"
+      },
+      {
+        "title": "Quality",
+        "scorePercent": 50,
+        "scoreLabel": "Yellow",
+        "scoreSuccess": "almost-failure"
+      },
+      {
+        "title": "Security",
+        "scorePercent": 50,
+        "scoreLabel": "Yellow",
+        "scoreSuccess": "almost-failure"
+      }
+    ]
   },
   {
     "entityRef": {
