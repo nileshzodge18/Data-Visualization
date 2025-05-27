@@ -77,9 +77,9 @@
       },
       {
         "title": "Security",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
+        "scorePercent": 100,
+        "scoreLabel": "Green",
+        "scoreSuccess": "success"
       }
     ]
   },
