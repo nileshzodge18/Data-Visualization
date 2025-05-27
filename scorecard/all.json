@@ -1,8 +1,8 @@
 [
   {
     "entityRef": {
-      "kind": "api",
-      "name": "hello-world"
+      "kind": "component",
+      "name": "example-website"
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
