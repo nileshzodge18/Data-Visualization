@@ -67,7 +67,6 @@ To run the **DataVisualization** application, ensure you have the following inst
    ```bash
    pip install -r requirement.txt
    ```
-   ```
 
 ### Running the Application
 The **DataVisualization** application is built using Streamlit. To start the application, follow these steps:
